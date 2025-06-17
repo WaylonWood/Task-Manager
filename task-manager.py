@@ -36,7 +36,7 @@ while True:
         print(" 6. Remove Subtask")
         print(" 7. View Completed Tasks")
         print(" 8. Exit")
-
+        print()
         choice = int(input("Please select an option: "))
 
         # Add a new task with optional subtasks
