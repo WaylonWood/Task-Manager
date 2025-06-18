@@ -23,8 +23,8 @@ Manage tasks, due dates, priorities, and subtasks — all from your terminal.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/task-manager-cli.git
-cd task-manager-cli
+git clone https://github.com/your-username/task-manager.git
+cd task-manager
 ```
 
 ---
