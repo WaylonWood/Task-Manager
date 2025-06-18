@@ -75,7 +75,7 @@ You’ll see a menu like this:
 ## 📂 File Structure
 
 ```
-task-manager-cli/
+task-manager/
 ├── task-manager.py
 ├── tasks.json
 ├── completed.json
